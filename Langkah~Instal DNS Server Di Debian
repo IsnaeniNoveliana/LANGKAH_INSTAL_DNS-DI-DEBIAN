@@ -1,0 +1,10 @@
+~°Update dan Upgrade Sistem 
+~°Install paket bind9
+~°Konfigurasi File Zona DNS 
+~°Buat File Zona DNS 
+~°Konfigurasi Reverse DNS (opsional) 
+~°Periksa Konfigurasi DNS 
+~°Restart dan Aktifkan Layanan bind9 
+~°Pengujian DNS Server 
+~°Konfigurasi Firewall (opsional) 
+~°Konfigurasi resolv.conf (opsional)
